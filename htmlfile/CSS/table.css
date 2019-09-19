@@ -1,0 +1,24 @@
+.hide {
+  visibility: hidden;
+}
+
+td {
+  border: 1px solid #000;
+  height: 20px;
+}
+
+tr {
+  border: 1px solid #000;
+}
+
+.color {
+  background-color: red;
+}
+
+a:visited {
+  color: blue;
+}
+
+a:hover {
+  color: red;
+}

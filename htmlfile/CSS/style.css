@@ -1,0 +1,77 @@
+html{
+  background-color: aliceblue;
+  /*background-image: url(image/nevron.jpg);
+  background-position: right left;
+  background-repeat: no-repeat;*/
+}
+div{
+  background-size:cover;
+ }
+ H1{
+   text-align: center;
+ }
+ .row{
+ margin-top:0cm;
+ margin-right:0cm;
+ margin-bottom:2.0pt;
+ margin-left:0cm;
+ text-align:justify;
+ text-indent:22.7pt;
+ font-size:13.0pt;
+ font-family:"Century Schoolbook","serif";
+ color:black;
+ }
+.text{
+  margin-top:0cm;
+ margin-right:0cm;
+ margin-bottom:2.0pt;
+ margin-left:0cm;
+ text-align:justify;
+ text-indent:22.7pt;
+ font-size:13.0pt;
+ font-family:"Century Schoolbook","serif";
+ color:black;
+}
+.points{
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:2.0pt;
+	margin-left:45.0pt;
+	text-align:justify;
+	text-indent:-22.5pt;
+	font-size:13.0pt;
+	font-family:"Century Schoolbook","serif";
+	color:black;
+}
+a{
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:2.0pt;
+	margin-left:45.0pt;
+	text-align:justify;
+	text-indent:-22.5pt;
+	font-size:13.0pt;
+	font-family:"Century Schoolbook","serif";
+	color:blue;
+}
+H2{
+  text-align: center;
+}
+p span{
+  font-size: 10.0pt; 
+  font-family: Arial,sans-serif
+}
+.red{
+  font-size: 10.0pt; 
+  font-family: Arial,sans-serif; 
+  color: red
+}
+H3{
+  text-align: center;
+}
+a:visited {
+	color:blue;
+}
+a:hover{
+	color:red;
+}
